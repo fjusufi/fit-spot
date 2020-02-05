@@ -1,0 +1,27 @@
+#sdgFacebook .extruder.left.a
+.flap{font-size:18px;color:white;top:0px;padding:10px
+0 10px 10px;background:transparent;width:30px;position:absolute;right:-8px;-moz-border-radius:0 10px 10px 0;-webkit-border-top-right-radius:10px;-webkit-border-bottom-right-radius:10px;-moz-box-shadow:#666 2px 0px 3px;-webkit-box-shadow:#666 2px 0px 3px}#sdgFacebook .extruder.left.a
+.content{border-right:3px solid #772B14;background:rgba(255,255,255,.95)}#sdgFacebook .extruder.left.a .flap
+.flapLabel{background:#3a5690}#sdgFacebook
+.extruder{position:fixed;cursor:default}#sdgFacebook .extruder
+.header{height:27px}#sdgFacebook .extruder .extruder-content{display:none;background:transparent}#sdgFacebook .extruder.open .extruder-content{-moz-box-shadow:2px 0 5px #999;-webkit-box-shadow:2px 0 5px #999;box-shadow:2px 0 5px #999}#sdgFacebook
+.extruder.left{height:100%}#sdgFacebook .extruder.left.open .extruder-content{-moz-box-shadow:2px 0 5px #999;-webkit-box-shadow:2px 0 5px #999;box-shadow:2px 0 5px #999}#sdgFacebook .extruder.left
+.ext_wrapper{height:100%}#sdgFacebook .extruder.left
+.footer{display:none}#sdgFacebook .extruder.left
+.flap{font-size:18px;color:white;top:0;padding:10px
+0 10px 10px;margin-right:-37px;background:#000;width:30px;position:absolute;right:0;-moz-border-radius:0 8px 0 8px;-webkit-border-top-left-radius:0;-webkit-border-top-right-radius:8px;-webkit-border-bottom-left-radius:0;-webkit-border-bottom-right-radius:8px;border-top-left-radius:0;border-top-right-radius:8px;border-bottom-left-radius:0;border-bottom-right-radius:8px;-moz-box-shadow:2px 0 5px #999;-webkit-box-shadow:2px 0 5px #999;box-shadow:2px 0 5px #999}#sdgFacebook .extruder.left .flap
+.flapLabel{background:#000}#sdgFacebook
+.extruder.right{height:100%}#sdgFacebook .extruder.right.open .extruder-content{-moz-box-shadow:-2px 0 5px #999;-webkit-box-shadow:-2px 0 5px #999;box-shadow:-2px 0 5px #999}#sdgFacebook .extruder.right
+.ext_wrapper{height:100%;right:0}#sdgFacebook .extruder.right
+.footer{display:none}#sdgFacebook .extruder.right
+.flap{font-size:18px;color:white;top:0;padding:10px
+0 10px 10px;background:#000;width:30px;position:absolute;left:-45px;-moz-border-radius:8px 0 8px 0;-webkit-border-top-left-radius:8px;-webkit-border-top-right-radius:0;-webkit-border-bottom-left-radius:8px;-webkit-border-bottom-right-radius:0;border-top-left-radius:8px;border-top-right-radius:0;border-bottom-left-radius:8px;border-bottom-right-radius:0;-moz-box-shadow:-2px 0 5px #999;-webkit-box-shadow:-2px 0 5px #999;box-shadow:-2px 0 5px #999}#sdgFacebook .extruder.right .flap
+.flapLabel{background:#000}#sdgFacebook .extruder
+.text{background:transparent;font:14px/16px Arial,Helvetica,sans-serif;color:gray;text-shadow:2px 2px 2px #333;width:300px!important;overflow:hidden;top:150px !important}#sdgFacebook .extruder.left.a .flap,
+#sdgFacebook .extruder.right
+.flap{background:url(../../images/svg/facebook.png) no-repeat !important;padding:151px
+0 10px 16px !important}#sdgFacebook .extruder.left.a .flap .flapLabel,
+#sdgFacebook .extruder.left .flap
+.flapLabel{background:transparent}#sdgFacebook .extruder.left.a .flap .flapLabel,
+#sdgFacebook .extruder.right .flap
+.flapLabel{display:none}.fb-page{border:solid 1px #3a5690}
